@@ -1,6 +1,6 @@
 {
   "name": "ydel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Global shell command to delete files and folder usings globs.",
   "homepage": "https://github.com/s-a/ydel",
   "author": {
